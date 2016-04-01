@@ -7,7 +7,7 @@ Let's implement them in **PHP**.
 ## Done
 
 ### Creational
--
+- Abstract factory
 
 ### Structural
 -
@@ -19,7 +19,6 @@ Let's implement them in **PHP**.
 
 ### Creational
 
-- Abstract factory
 - Builder
 - Factory method
 - Prototype
