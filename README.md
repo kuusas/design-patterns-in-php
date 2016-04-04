@@ -9,6 +9,7 @@ Let's implement them in **PHP**.
 ### Creational
 - Abstract factory
 - Builder
+- Factory method
 
 ### Structural
 -
@@ -20,7 +21,6 @@ Let's implement them in **PHP**.
 
 ### Creational
 
-- Factory method
 - Prototype
 - Singleton
 
