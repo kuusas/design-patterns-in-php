@@ -11,6 +11,7 @@ Let's implement them in **PHP**.
 - Builder
 - Factory method
 - Prototype
+- Singleton
 
 ### Structural
 -
@@ -20,9 +21,6 @@ Let's implement them in **PHP**.
 
 ## TODO
 
-### Creational
-
-- Singleton
 
 ### Structural
 
