@@ -14,17 +14,12 @@ Let's implement them in **PHP**.
 - Singleton
 
 ### Structural
--
-
-### Behavioral
--
+- Adapter
 
 ## TODO
 
-
 ### Structural
 
-- Adapter
 - Bridge
 - Composite
 - Decorator
