@@ -5,5 +5,8 @@
     "require-dev": {
         "phpspec/phpspec": "^2.5",
         "phpunit/phpunit": "^5.3"
+    },
+    "config": {
+        "bin-dir": "bin"
     }
 }

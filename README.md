@@ -1,3 +1,5 @@
+[![Build Status](https://scrutinizer-ci.com/g/kuusas/design-patterns-in-php/badges/build.png?b=master)](https://scrutinizer-ci.com/g/kuusas/design-patterns-in-php/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kuusas/design-patterns-in-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kuusas/design-patterns-in-php/?branch=master)
+
 # Design patterns in PHP
 
 ## Idea
